@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-Estou  atualmente estudando para ingressar na aréa de frontend, á qual estou gostando bastante e redescobrindo o entusiasmo de trabalhar na TI :heart_eyes:
+Estou  atualmente estudando para ingressar na aréa de frontend, á qual estou gostando bastante e  enfrentando  novos desafios  diarios, para alcançar essa nova recoloção no mercado de trabalho.
 
 
 <br>:neckbeard:&nbsp;Formação Análise de sistemas,UML,RUP,Metodologia Ágil,HTML5,CSS,Grid Layout e Flexbox.
